@@ -1,4 +1,4 @@
-from narwhals import col
+
 import numpy as np
 from utils import calculate_kpis, cost_vs_sales, div_margin_chart, div_sales_chart, factory_analysis, filter_data, load_data, margin_risk, profit_pareto, profit_pareto_chart, revenue_pareto, revenue_pareto_chart, top_products_by_margin, top_products_by_profit
 import streamlit as st
