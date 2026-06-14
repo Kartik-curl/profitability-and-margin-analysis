@@ -114,10 +114,8 @@ The Streamlit application includes:
 project/
 │
 ├── app.py
-├── data/
-│   └── dataset.csv
+│── dataset.csv
 ├── utils.py
-├── charts.py
 ├── requirements.txt
 └── README.md
 ```
